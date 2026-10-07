@@ -14,5 +14,7 @@
 
 =============Tests: all passing?
  - Some problems but it was ok
+ - 
 ===============Conclusion:
+
 -In this lab, I learned how to use Git commands in the terminal to commit, make branches, and push my code to GitHub. Creating the conda environment with environment.yml was easy and helped run everything without problems. I also saw that using NumPy is much faster than standard Python loops for heavy simulation tasks.
