@@ -39,7 +39,7 @@ conda activate cspc
 - A `Snakefile` with one rule that builds `figure.png` from the CSV by running `plot.py`.
 
 **What the data showed:**
-- [CHECK: open PW1/Lab B/figure.png and write 1 to 2 sentences: how the observed counts change with time, and whether they match the analytical curve]
+- The observed counts decrease with time and follow the analytical curve closely, with some random noise.
 
 **Snakemake:**
 - The pipeline builds `figure.png` from `decay_observed.csv`. When I ran it again with nothing changed, Snakemake reported "Nothing to be done" and did no work.
